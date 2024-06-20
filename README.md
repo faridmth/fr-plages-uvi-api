@@ -1,6 +1,6 @@
-##Description
+# Description
 This API retrieves the UV index for specified cities using the OpenWeatherMap API 3.0 (free plan) which permits up to 1,000 calls per day, the data is updated daily at 6:00 AM 
-##cities: 
+# cities: 
 Saint-Tropez
 Saint-Nazaire
 Saint-Malo
