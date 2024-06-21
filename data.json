@@ -1,216 +1,76 @@
 {
-  "2024-06-20": [
-    {
-      "label": "Saint-Tropez",
-      "latitude": 43.26932,
-      "longitude": 6.63981,
-      "uvi": 6.87
-    },
-    {
-      "label": "Saint-Nazaire",
-      "latitude": 47.27506,
-      "longitude": -2.2179,
-      "uvi": 4.49
-    },
-    {
-      "label": "Saint-Malo",
-      "latitude": 48.64738,
-      "longitude": -2.00877,
-      "uvi": 6.38
-    },
-    {
-      "label": "Royan",
-      "latitude": 45.62846,
-      "longitude": -1.0281,
-      "uvi": 4.06
-    },
-    {
-      "label": "Palavas-les-Flots",
-      "latitude": 43.52974,
-      "longitude": 3.93043,
-      "uvi": 1.09
-    },
-    {
-      "label": "Paimpol",
-      "latitude": 48.77831,
-      "longitude": -3.0466,
-      "uvi": 6.34
-    },
-    {
-      "label": "Nice",
-      "latitude": 43.70313,
-      "longitude": 7.26608,
-      "uvi": 5.05
-    },
-    {
-      "label": "Mimizan",
-      "latitude": 44.20135,
-      "longitude": -1.22873,
-      "uvi": 6.77
-    },
-    {
-      "label": "Marseille",
-      "latitude": 43.29695,
-      "longitude": 5.38107,
-      "uvi": 7.51
-    },
-    {
-      "label": "Lorient",
-      "latitude": 47.74817,
-      "longitude": -3.37177,
-      "uvi": 3.67
-    },
-    {
-      "label": "Le Touquet-Paris-Plage",
-      "latitude": 50.52432,
-      "longitude": 1.58571,
-      "uvi": 6.48
-    },
-    {
-      "label": "Les Sables-d'Olonne",
-      "latitude": 46.49687,
-      "longitude": -1.7847,
-      "uvi": 4.88
-    },
-    {
-      "label": "Le Havre",
-      "latitude": 49.4938,
-      "longitude": 0.10767,
-      "uvi": 6.25
-    },
-    {
-      "label": "Dunkerque",
-      "latitude": 51.0344,
-      "longitude": 2.37681,
-      "uvi": 6.49
-    },
-    {
-      "label": "Dieppe",
-      "latitude": 49.9216,
-      "longitude": 1.07772,
-      "uvi": 5.97
-    },
-    {
-      "label": "Cherbourg-Octeville",
-      "latitude": 49.63984,
-      "longitude": -1.61636,
-      "uvi": 6.3
-    },
-    {
-      "label": "Brest",
-      "latitude": 48.39029,
-      "longitude": -4.48628,
-      "uvi": 5.09
-    },
-    {
-      "label": "Biarritz",
-      "latitude": 43.48055,
-      "longitude": -1.55684,
-      "uvi": 3.59
-    },
-    {
-      "label": "Bastia",
-      "latitude": 42.70278,
-      "longitude": 9.45,
-      "uvi": 6.01
-    },
-    {
-      "label": "Arromanches-les-Bains",
-      "latitude": 49.33823,
-      "longitude": -0.62479,
-      "uvi": 6.39
-    },
-    {
-      "label": "Argelès-sur-Mer",
-      "latitude": 42.54714,
-      "longitude": 3.02253,
-      "uvi": 2.42
-    },
-    {
-      "label": "Ajaccio",
-      "latitude": 41.91886,
-      "longitude": 8.73812,
-      "uvi": 7.49
-    }
-  ],
   "2024-06-21": [
     {
       "label": "Saint-Tropez",
       "latitude": 43.26932,
       "longitude": 6.63981,
-      "uvi": 7.89
+      "uvi": 7.38
     },
     {
       "label": "Saint-Nazaire",
       "latitude": 47.27506,
       "longitude": -2.2179,
-      "uvi": 7.56
+      "uvi": 7.47
     },
     {
       "label": "Saint-Malo",
       "latitude": 48.64738,
       "longitude": -2.00877,
-      "uvi": 7.05
+      "uvi": 7.52
     },
     {
       "label": "Royan",
       "latitude": 45.62846,
       "longitude": -1.0281,
-      "uvi": 7.32
+      "uvi": 7.62
     },
     {
       "label": "Palavas-les-Flots",
       "latitude": 43.52974,
       "longitude": 3.93043,
-      "uvi": 7.22
+      "uvi": 7.59
     },
     {
       "label": "Paimpol",
       "latitude": 48.77831,
       "longitude": -3.0466,
-      "uvi": 6.9
+      "uvi": 7.16
     },
     {
       "label": "Nice",
       "latitude": 43.70313,
       "longitude": 7.26608,
-      "uvi": 7.64
+      "uvi": 8.24
     },
     {
       "label": "Mimizan",
       "latitude": 44.20135,
       "longitude": -1.22873,
-      "uvi": 7.62
-    },
-    {
-      "label": "Marseille",
-      "latitude": 43.29695,
-      "longitude": 5.38107,
-      "uvi": 6.98
+      "uvi": 7.82
     },
     {
       "label": "Lorient",
       "latitude": 47.74817,
       "longitude": -3.37177,
-      "uvi": 5.88
+      "uvi": 7.5
     },
     {
       "label": "Le Touquet-Paris-Plage",
       "latitude": 50.52432,
       "longitude": 1.58571,
-      "uvi": 6.35
+      "uvi": 6.32
     },
     {
       "label": "Les Sables-d'Olonne",
       "latitude": 46.49687,
       "longitude": -1.7847,
-      "uvi": 6.94
+      "uvi": 7.61
     },
     {
       "label": "Le Havre",
       "latitude": 49.4938,
       "longitude": 0.10767,
-      "uvi": 7.16
+      "uvi": 7.12
     },
     {
       "label": "Dunkerque",
@@ -222,49 +82,49 @@
       "label": "Dieppe",
       "latitude": 49.9216,
       "longitude": 1.07772,
-      "uvi": 6.79
+      "uvi": 7.04
     },
     {
       "label": "Cherbourg-Octeville",
       "latitude": 49.63984,
       "longitude": -1.61636,
-      "uvi": 6.72
+      "uvi": 7.28
     },
     {
       "label": "Brest",
       "latitude": 48.39029,
       "longitude": -4.48628,
-      "uvi": 6.96
+      "uvi": 6.95
     },
     {
       "label": "Biarritz",
       "latitude": 43.48055,
       "longitude": -1.55684,
-      "uvi": 7.77
+      "uvi": 7.74
     },
     {
       "label": "Bastia",
       "latitude": 42.70278,
       "longitude": 9.45,
-      "uvi": 7.48
+      "uvi": 7.8
     },
     {
       "label": "Arromanches-les-Bains",
       "latitude": 49.33823,
       "longitude": -0.62479,
-      "uvi": 7
+      "uvi": 7.15
     },
     {
       "label": "Argelès-sur-Mer",
       "latitude": 42.54714,
       "longitude": 3.02253,
-      "uvi": 7.33
+      "uvi": 7.16
     },
     {
       "label": "Ajaccio",
       "latitude": 41.91886,
       "longitude": 8.73812,
-      "uvi": 7.71
+      "uvi": 7.8
     }
   ],
   "2024-06-22": [
@@ -272,133 +132,127 @@
       "label": "Saint-Tropez",
       "latitude": 43.26932,
       "longitude": 6.63981,
-      "uvi": 7.85
+      "uvi": 7.88
     },
     {
       "label": "Saint-Nazaire",
       "latitude": 47.27506,
       "longitude": -2.2179,
-      "uvi": 6.78
+      "uvi": 5.95
     },
     {
       "label": "Saint-Malo",
       "latitude": 48.64738,
       "longitude": -2.00877,
-      "uvi": 7.21
+      "uvi": 7.54
     },
     {
       "label": "Royan",
       "latitude": 45.62846,
       "longitude": -1.0281,
-      "uvi": 7.3
+      "uvi": 4.6
     },
     {
       "label": "Palavas-les-Flots",
       "latitude": 43.52974,
       "longitude": 3.93043,
-      "uvi": 7.82
+      "uvi": 8.25
     },
     {
       "label": "Paimpol",
       "latitude": 48.77831,
       "longitude": -3.0466,
-      "uvi": 6.74
+      "uvi": 7.75
     },
     {
       "label": "Nice",
       "latitude": 43.70313,
       "longitude": 7.26608,
-      "uvi": 8.16
+      "uvi": 8.14
     },
     {
       "label": "Mimizan",
       "latitude": 44.20135,
       "longitude": -1.22873,
-      "uvi": 6.82
-    },
-    {
-      "label": "Marseille",
-      "latitude": 43.29695,
-      "longitude": 5.38107,
-      "uvi": 7.87
+      "uvi": 4.5
     },
     {
       "label": "Lorient",
       "latitude": 47.74817,
       "longitude": -3.37177,
-      "uvi": 6.48
+      "uvi": 7.52
     },
     {
       "label": "Le Touquet-Paris-Plage",
       "latitude": 50.52432,
       "longitude": 1.58571,
-      "uvi": 5.99
+      "uvi": 4.62
     },
     {
       "label": "Les Sables-d'Olonne",
       "latitude": 46.49687,
       "longitude": -1.7847,
-      "uvi": 6.91
+      "uvi": 5.62
     },
     {
       "label": "Le Havre",
       "latitude": 49.4938,
       "longitude": 0.10767,
-      "uvi": 6.7
+      "uvi": 6.67
     },
     {
       "label": "Dunkerque",
       "latitude": 51.0344,
       "longitude": 2.37681,
-      "uvi": 5.84
+      "uvi": 4.85
     },
     {
       "label": "Dieppe",
       "latitude": 49.9216,
       "longitude": 1.07772,
-      "uvi": 6.68
+      "uvi": 6.86
     },
     {
       "label": "Cherbourg-Octeville",
       "latitude": 49.63984,
       "longitude": -1.61636,
-      "uvi": 7.21
+      "uvi": 6.89
     },
     {
       "label": "Brest",
       "latitude": 48.39029,
       "longitude": -4.48628,
-      "uvi": 5.57
+      "uvi": 7.03
     },
     {
       "label": "Biarritz",
       "latitude": 43.48055,
       "longitude": -1.55684,
-      "uvi": 6.44
+      "uvi": 6.45
     },
     {
       "label": "Bastia",
       "latitude": 42.70278,
       "longitude": 9.45,
-      "uvi": 8.39
+      "uvi": 8.46
     },
     {
       "label": "Arromanches-les-Bains",
       "latitude": 49.33823,
       "longitude": -0.62479,
-      "uvi": 6.57
+      "uvi": 6.58
     },
     {
       "label": "Argelès-sur-Mer",
       "latitude": 42.54714,
       "longitude": 3.02253,
-      "uvi": 8.18
+      "uvi": 8.13
     },
     {
       "label": "Ajaccio",
       "latitude": 41.91886,
       "longitude": 8.73812,
-      "uvi": 8.69
+      "uvi": 8.76
     }
   ],
   "2024-06-23": [
@@ -406,133 +260,127 @@
       "label": "Saint-Tropez",
       "latitude": 43.26932,
       "longitude": 6.63981,
-      "uvi": 5
+      "uvi": 7.8
     },
     {
       "label": "Saint-Nazaire",
       "latitude": 47.27506,
       "longitude": -2.2179,
-      "uvi": 7.32
+      "uvi": 3.36
     },
     {
       "label": "Saint-Malo",
       "latitude": 48.64738,
       "longitude": -2.00877,
-      "uvi": 8.15
+      "uvi": 7.17
     },
     {
       "label": "Royan",
       "latitude": 45.62846,
       "longitude": -1.0281,
-      "uvi": 8.34
+      "uvi": 7
     },
     {
       "label": "Palavas-les-Flots",
       "latitude": 43.52974,
       "longitude": 3.93043,
-      "uvi": 9.07
+      "uvi": 9.12
     },
     {
       "label": "Paimpol",
       "latitude": 48.77831,
       "longitude": -3.0466,
-      "uvi": 7.51
+      "uvi": 7.24
     },
     {
       "label": "Nice",
       "latitude": 43.70313,
       "longitude": 7.26608,
-      "uvi": 7.61
+      "uvi": 7.69
     },
     {
       "label": "Mimizan",
       "latitude": 44.20135,
       "longitude": -1.22873,
-      "uvi": 8.68
-    },
-    {
-      "label": "Marseille",
-      "latitude": 43.29695,
-      "longitude": 5.38107,
-      "uvi": 8.08
+      "uvi": 8.19
     },
     {
       "label": "Lorient",
       "latitude": 47.74817,
       "longitude": -3.37177,
-      "uvi": 2.99
+      "uvi": 3.72
     },
     {
       "label": "Le Touquet-Paris-Plage",
       "latitude": 50.52432,
       "longitude": 1.58571,
-      "uvi": 8.17
+      "uvi": 7.99
     },
     {
       "label": "Les Sables-d'Olonne",
       "latitude": 46.49687,
       "longitude": -1.7847,
-      "uvi": 7.52
+      "uvi": 6.13
     },
     {
       "label": "Le Havre",
       "latitude": 49.4938,
       "longitude": 0.10767,
-      "uvi": 8.41
+      "uvi": 8.31
     },
     {
       "label": "Dunkerque",
       "latitude": 51.0344,
       "longitude": 2.37681,
-      "uvi": 8.02
+      "uvi": 8.04
     },
     {
       "label": "Dieppe",
       "latitude": 49.9216,
       "longitude": 1.07772,
-      "uvi": 8.33
+      "uvi": 8.23
     },
     {
       "label": "Cherbourg-Octeville",
       "latitude": 49.63984,
       "longitude": -1.61636,
-      "uvi": 8.29
+      "uvi": 7.42
     },
     {
       "label": "Brest",
       "latitude": 48.39029,
       "longitude": -4.48628,
-      "uvi": 6.42
+      "uvi": 4.07
     },
     {
       "label": "Biarritz",
       "latitude": 43.48055,
       "longitude": -1.55684,
-      "uvi": 5.46
+      "uvi": 7.56
     },
     {
       "label": "Bastia",
       "latitude": 42.70278,
       "longitude": 9.45,
-      "uvi": 6.24
+      "uvi": 7.04
     },
     {
       "label": "Arromanches-les-Bains",
       "latitude": 49.33823,
       "longitude": -0.62479,
-      "uvi": 8.4
+      "uvi": 8.29
     },
     {
       "label": "Argelès-sur-Mer",
       "latitude": 42.54714,
       "longitude": 3.02253,
-      "uvi": 8.4
+      "uvi": 8.86
     },
     {
       "label": "Ajaccio",
       "latitude": 41.91886,
       "longitude": 8.73812,
-      "uvi": 8.01
+      "uvi": 7.5
     }
   ],
   "2024-06-24": [
@@ -540,19 +388,19 @@
       "label": "Saint-Tropez",
       "latitude": 43.26932,
       "longitude": 6.63981,
-      "uvi": 7.65
+      "uvi": 8.61
     },
     {
       "label": "Saint-Nazaire",
       "latitude": 47.27506,
       "longitude": -2.2179,
-      "uvi": 8.42
+      "uvi": 8.21
     },
     {
       "label": "Saint-Malo",
       "latitude": 48.64738,
       "longitude": -2.00877,
-      "uvi": 8.04
+      "uvi": 8.08
     },
     {
       "label": "Royan",
@@ -564,109 +412,103 @@
       "label": "Palavas-les-Flots",
       "latitude": 43.52974,
       "longitude": 3.93043,
-      "uvi": 9
+      "uvi": 9.5
     },
     {
       "label": "Paimpol",
       "latitude": 48.77831,
       "longitude": -3.0466,
-      "uvi": 7.89
+      "uvi": 5.43
     },
     {
       "label": "Nice",
       "latitude": 43.70313,
       "longitude": 7.26608,
-      "uvi": 7.97
+      "uvi": 9.01
     },
     {
       "label": "Mimizan",
       "latitude": 44.20135,
       "longitude": -1.22873,
-      "uvi": 9.04
-    },
-    {
-      "label": "Marseille",
-      "latitude": 43.29695,
-      "longitude": 5.38107,
-      "uvi": 8.1
+      "uvi": 8.91
     },
     {
       "label": "Lorient",
       "latitude": 47.74817,
       "longitude": -3.37177,
-      "uvi": 7.66
+      "uvi": 5.98
     },
     {
       "label": "Le Touquet-Paris-Plage",
       "latitude": 50.52432,
       "longitude": 1.58571,
-      "uvi": 7.55
+      "uvi": 7.83
     },
     {
       "label": "Les Sables-d'Olonne",
       "latitude": 46.49687,
       "longitude": -1.7847,
-      "uvi": 8.72
+      "uvi": 8.63
     },
     {
       "label": "Le Havre",
       "latitude": 49.4938,
       "longitude": 0.10767,
-      "uvi": 7.92
+      "uvi": 8.25
     },
     {
       "label": "Dunkerque",
       "latitude": 51.0344,
       "longitude": 2.37681,
-      "uvi": 7.44
+      "uvi": 7.59
     },
     {
       "label": "Dieppe",
       "latitude": 49.9216,
       "longitude": 1.07772,
-      "uvi": 7.79
+      "uvi": 8.08
     },
     {
       "label": "Cherbourg-Octeville",
       "latitude": 49.63984,
       "longitude": -1.61636,
-      "uvi": 7.54
+      "uvi": 5.68
     },
     {
       "label": "Brest",
       "latitude": 48.39029,
       "longitude": -4.48628,
-      "uvi": 4.73
+      "uvi": 4.08
     },
     {
       "label": "Biarritz",
       "latitude": 43.48055,
       "longitude": -1.55684,
-      "uvi": 9.19
+      "uvi": 8.9
     },
     {
       "label": "Bastia",
       "latitude": 42.70278,
       "longitude": 9.45,
-      "uvi": 7.14
+      "uvi": 7.53
     },
     {
       "label": "Arromanches-les-Bains",
       "latitude": 49.33823,
       "longitude": -0.62479,
-      "uvi": 7.92
+      "uvi": 8.21
     },
     {
       "label": "Argelès-sur-Mer",
       "latitude": 42.54714,
       "longitude": 3.02253,
-      "uvi": 8.87
+      "uvi": 9.13
     },
     {
       "label": "Ajaccio",
       "latitude": 41.91886,
       "longitude": 8.73812,
-      "uvi": 7.3
+      "uvi": 7.53
     }
   ],
   "2024-06-25": [
@@ -674,133 +516,127 @@
       "label": "Saint-Tropez",
       "latitude": 43.26932,
       "longitude": 6.63981,
-      "uvi": 8
+      "uvi": 9.04
     },
     {
       "label": "Saint-Nazaire",
       "latitude": 47.27506,
       "longitude": -2.2179,
-      "uvi": 9
+      "uvi": 5.16
     },
     {
       "label": "Saint-Malo",
       "latitude": 48.64738,
       "longitude": -2.00877,
-      "uvi": 9
+      "uvi": 4.66
     },
     {
       "label": "Royan",
       "latitude": 45.62846,
       "longitude": -1.0281,
-      "uvi": 9
+      "uvi": 7.17
     },
     {
       "label": "Palavas-les-Flots",
       "latitude": 43.52974,
       "longitude": 3.93043,
-      "uvi": 9
+      "uvi": 9.41
     },
     {
       "label": "Paimpol",
       "latitude": 48.77831,
       "longitude": -3.0466,
-      "uvi": 8
+      "uvi": 2.94
     },
     {
       "label": "Nice",
       "latitude": 43.70313,
       "longitude": 7.26608,
-      "uvi": 8
+      "uvi": 9.44
     },
     {
       "label": "Mimizan",
       "latitude": 44.20135,
       "longitude": -1.22873,
-      "uvi": 10
-    },
-    {
-      "label": "Marseille",
-      "latitude": 43.29695,
-      "longitude": 5.38107,
-      "uvi": 9
+      "uvi": 8.06
     },
     {
       "label": "Lorient",
       "latitude": 47.74817,
       "longitude": -3.37177,
-      "uvi": 8
+      "uvi": 4.86
     },
     {
       "label": "Le Touquet-Paris-Plage",
       "latitude": 50.52432,
       "longitude": 1.58571,
-      "uvi": 8
+      "uvi": 6.57
     },
     {
       "label": "Les Sables-d'Olonne",
       "latitude": 46.49687,
       "longitude": -1.7847,
-      "uvi": 9
+      "uvi": 6.24
     },
     {
       "label": "Le Havre",
       "latitude": 49.4938,
       "longitude": 0.10767,
-      "uvi": 8
+      "uvi": 7.37
     },
     {
       "label": "Dunkerque",
       "latitude": 51.0344,
       "longitude": 2.37681,
-      "uvi": 8
+      "uvi": 6.77
     },
     {
       "label": "Dieppe",
       "latitude": 49.9216,
       "longitude": 1.07772,
-      "uvi": 8
+      "uvi": 7.59
     },
     {
       "label": "Cherbourg-Octeville",
       "latitude": 49.63984,
       "longitude": -1.61636,
-      "uvi": 8
+      "uvi": 6.53
     },
     {
       "label": "Brest",
       "latitude": 48.39029,
       "longitude": -4.48628,
-      "uvi": 5
+      "uvi": 1.89
     },
     {
       "label": "Biarritz",
       "latitude": 43.48055,
       "longitude": -1.55684,
-      "uvi": 10
+      "uvi": 6.46
     },
     {
       "label": "Bastia",
       "latitude": 42.70278,
       "longitude": 9.45,
-      "uvi": 8
+      "uvi": 8.66
     },
     {
       "label": "Arromanches-les-Bains",
       "latitude": 49.33823,
       "longitude": -0.62479,
-      "uvi": 8
+      "uvi": 6.9
     },
     {
       "label": "Argelès-sur-Mer",
       "latitude": 42.54714,
       "longitude": 3.02253,
-      "uvi": 9
+      "uvi": 8.83
     },
     {
       "label": "Ajaccio",
       "latitude": 41.91886,
       "longitude": 8.73812,
-      "uvi": 8
+      "uvi": 8.7
     }
   ],
   "2024-06-26": [
@@ -808,73 +644,67 @@
       "label": "Saint-Tropez",
       "latitude": 43.26932,
       "longitude": 6.63981,
-      "uvi": 8
+      "uvi": 10
     },
     {
       "label": "Saint-Nazaire",
       "latitude": 47.27506,
       "longitude": -2.2179,
-      "uvi": 9
+      "uvi": 6
     },
     {
       "label": "Saint-Malo",
       "latitude": 48.64738,
       "longitude": -2.00877,
-      "uvi": 9
+      "uvi": 5
     },
     {
       "label": "Royan",
       "latitude": 45.62846,
       "longitude": -1.0281,
-      "uvi": 9
+      "uvi": 8
     },
     {
       "label": "Palavas-les-Flots",
       "latitude": 43.52974,
       "longitude": 3.93043,
-      "uvi": 9
+      "uvi": 10
     },
     {
       "label": "Paimpol",
       "latitude": 48.77831,
       "longitude": -3.0466,
-      "uvi": 8
+      "uvi": 3
     },
     {
       "label": "Nice",
       "latitude": 43.70313,
       "longitude": 7.26608,
-      "uvi": 8
+      "uvi": 10
     },
     {
       "label": "Mimizan",
       "latitude": 44.20135,
       "longitude": -1.22873,
-      "uvi": 10
-    },
-    {
-      "label": "Marseille",
-      "latitude": 43.29695,
-      "longitude": 5.38107,
       "uvi": 9
     },
     {
       "label": "Lorient",
       "latitude": 47.74817,
       "longitude": -3.37177,
-      "uvi": 8
+      "uvi": 5
     },
     {
       "label": "Le Touquet-Paris-Plage",
       "latitude": 50.52432,
       "longitude": 1.58571,
-      "uvi": 8
+      "uvi": 7
     },
     {
       "label": "Les Sables-d'Olonne",
       "latitude": 46.49687,
       "longitude": -1.7847,
-      "uvi": 9
+      "uvi": 7
     },
     {
       "label": "Le Havre",
@@ -886,7 +716,7 @@
       "label": "Dunkerque",
       "latitude": 51.0344,
       "longitude": 2.37681,
-      "uvi": 8
+      "uvi": 7
     },
     {
       "label": "Dieppe",
@@ -898,31 +728,31 @@
       "label": "Cherbourg-Octeville",
       "latitude": 49.63984,
       "longitude": -1.61636,
-      "uvi": 8
+      "uvi": 7
     },
     {
       "label": "Brest",
       "latitude": 48.39029,
       "longitude": -4.48628,
-      "uvi": 5
+      "uvi": 2
     },
     {
       "label": "Biarritz",
       "latitude": 43.48055,
       "longitude": -1.55684,
-      "uvi": 10
+      "uvi": 7
     },
     {
       "label": "Bastia",
       "latitude": 42.70278,
       "longitude": 9.45,
-      "uvi": 8
+      "uvi": 9
     },
     {
       "label": "Arromanches-les-Bains",
       "latitude": 49.33823,
       "longitude": -0.62479,
-      "uvi": 8
+      "uvi": 7
     },
     {
       "label": "Argelès-sur-Mer",
@@ -934,7 +764,7 @@
       "label": "Ajaccio",
       "latitude": 41.91886,
       "longitude": 8.73812,
-      "uvi": 8
+      "uvi": 9
     }
   ],
   "2024-06-27": [
@@ -942,73 +772,67 @@
       "label": "Saint-Tropez",
       "latitude": 43.26932,
       "longitude": 6.63981,
-      "uvi": 8
+      "uvi": 10
     },
     {
       "label": "Saint-Nazaire",
       "latitude": 47.27506,
       "longitude": -2.2179,
-      "uvi": 9
+      "uvi": 6
     },
     {
       "label": "Saint-Malo",
       "latitude": 48.64738,
       "longitude": -2.00877,
-      "uvi": 9
+      "uvi": 5
     },
     {
       "label": "Royan",
       "latitude": 45.62846,
       "longitude": -1.0281,
-      "uvi": 9
+      "uvi": 8
     },
     {
       "label": "Palavas-les-Flots",
       "latitude": 43.52974,
       "longitude": 3.93043,
-      "uvi": 9
+      "uvi": 10
     },
     {
       "label": "Paimpol",
       "latitude": 48.77831,
       "longitude": -3.0466,
-      "uvi": 8
+      "uvi": 3
     },
     {
       "label": "Nice",
       "latitude": 43.70313,
       "longitude": 7.26608,
-      "uvi": 8
+      "uvi": 10
     },
     {
       "label": "Mimizan",
       "latitude": 44.20135,
       "longitude": -1.22873,
-      "uvi": 10
-    },
-    {
-      "label": "Marseille",
-      "latitude": 43.29695,
-      "longitude": 5.38107,
       "uvi": 9
     },
     {
       "label": "Lorient",
       "latitude": 47.74817,
       "longitude": -3.37177,
-      "uvi": 8
+      "uvi": 5
     },
     {
       "label": "Le Touquet-Paris-Plage",
       "latitude": 50.52432,
       "longitude": 1.58571,
-      "uvi": 8
+      "uvi": 7
     },
     {
       "label": "Les Sables-d'Olonne",
       "latitude": 46.49687,
       "longitude": -1.7847,
-      "uvi": 9
+      "uvi": 7
     },
     {
       "label": "Le Havre",
@@ -1020,7 +844,7 @@
       "label": "Dunkerque",
       "latitude": 51.0344,
       "longitude": 2.37681,
-      "uvi": 8
+      "uvi": 7
     },
     {
       "label": "Dieppe",
@@ -1032,31 +856,31 @@
       "label": "Cherbourg-Octeville",
       "latitude": 49.63984,
       "longitude": -1.61636,
-      "uvi": 8
+      "uvi": 7
     },
     {
       "label": "Brest",
       "latitude": 48.39029,
       "longitude": -4.48628,
-      "uvi": 5
+      "uvi": 2
     },
     {
       "label": "Biarritz",
       "latitude": 43.48055,
       "longitude": -1.55684,
-      "uvi": 10
+      "uvi": 7
     },
     {
       "label": "Bastia",
       "latitude": 42.70278,
       "longitude": 9.45,
-      "uvi": 8
+      "uvi": 9
     },
     {
       "label": "Arromanches-les-Bains",
       "latitude": 49.33823,
       "longitude": -0.62479,
-      "uvi": 8
+      "uvi": 7
     },
     {
       "label": "Argelès-sur-Mer",
@@ -1068,7 +892,135 @@
       "label": "Ajaccio",
       "latitude": 41.91886,
       "longitude": 8.73812,
+      "uvi": 9
+    }
+  ],
+  "2024-06-28": [
+    {
+      "label": "Saint-Tropez",
+      "latitude": 43.26932,
+      "longitude": 6.63981,
+      "uvi": 10
+    },
+    {
+      "label": "Saint-Nazaire",
+      "latitude": 47.27506,
+      "longitude": -2.2179,
+      "uvi": 6
+    },
+    {
+      "label": "Saint-Malo",
+      "latitude": 48.64738,
+      "longitude": -2.00877,
+      "uvi": 5
+    },
+    {
+      "label": "Royan",
+      "latitude": 45.62846,
+      "longitude": -1.0281,
       "uvi": 8
+    },
+    {
+      "label": "Palavas-les-Flots",
+      "latitude": 43.52974,
+      "longitude": 3.93043,
+      "uvi": 10
+    },
+    {
+      "label": "Paimpol",
+      "latitude": 48.77831,
+      "longitude": -3.0466,
+      "uvi": 3
+    },
+    {
+      "label": "Nice",
+      "latitude": 43.70313,
+      "longitude": 7.26608,
+      "uvi": 10
+    },
+    {
+      "label": "Mimizan",
+      "latitude": 44.20135,
+      "longitude": -1.22873,
+      "uvi": 9
+    },
+    {
+      "label": "Lorient",
+      "latitude": 47.74817,
+      "longitude": -3.37177,
+      "uvi": 5
+    },
+    {
+      "label": "Le Touquet-Paris-Plage",
+      "latitude": 50.52432,
+      "longitude": 1.58571,
+      "uvi": 7
+    },
+    {
+      "label": "Les Sables-d'Olonne",
+      "latitude": 46.49687,
+      "longitude": -1.7847,
+      "uvi": 7
+    },
+    {
+      "label": "Le Havre",
+      "latitude": 49.4938,
+      "longitude": 0.10767,
+      "uvi": 8
+    },
+    {
+      "label": "Dunkerque",
+      "latitude": 51.0344,
+      "longitude": 2.37681,
+      "uvi": 7
+    },
+    {
+      "label": "Dieppe",
+      "latitude": 49.9216,
+      "longitude": 1.07772,
+      "uvi": 8
+    },
+    {
+      "label": "Cherbourg-Octeville",
+      "latitude": 49.63984,
+      "longitude": -1.61636,
+      "uvi": 7
+    },
+    {
+      "label": "Brest",
+      "latitude": 48.39029,
+      "longitude": -4.48628,
+      "uvi": 2
+    },
+    {
+      "label": "Biarritz",
+      "latitude": 43.48055,
+      "longitude": -1.55684,
+      "uvi": 7
+    },
+    {
+      "label": "Bastia",
+      "latitude": 42.70278,
+      "longitude": 9.45,
+      "uvi": 9
+    },
+    {
+      "label": "Arromanches-les-Bains",
+      "latitude": 49.33823,
+      "longitude": -0.62479,
+      "uvi": 7
+    },
+    {
+      "label": "Argelès-sur-Mer",
+      "latitude": 42.54714,
+      "longitude": 3.02253,
+      "uvi": 9
+    },
+    {
+      "label": "Ajaccio",
+      "latitude": 41.91886,
+      "longitude": 8.73812,
+      "uvi": 9
     }
   ]
 }

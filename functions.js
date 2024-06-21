@@ -1,5 +1,4 @@
 import fetch from 'node-fetch';
-import fs from 'fs'
 
 const apiKey = "931da1a2c7f202862dad71c6eb8cd3dd";
 let uvData = {};
@@ -38,7 +37,7 @@ const weather = async (lat,lon)=>{
 }
 
 
-function formatDate(unixTimestamp) {
+export function formatDate(unixTimestamp) {
     const date = new Date(unixTimestamp * 1000);
     const year = date.getFullYear();
     const month = String(date.getMonth() + 1).padStart(2, '0');
