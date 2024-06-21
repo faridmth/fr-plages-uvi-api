@@ -1,5 +1,5 @@
 # Description :
-This API retrieves the UV index for specified cities using the OpenWeatherMap API 3.0 (free plan) which permits up to 1,000 calls per day to make this api with unlimited calls, the data is updated daily at 6:00 AM 
+This API retrieves the UV index for specified cities using the OpenWeatherMap API 3.0 (free plan) which permits up to 1,000 calls per day to make this api with unlimited calls, the data is updated daily (on the first request). 
 # Endpoint : 
 ``https://fr-plages-uvi-api.onrender.com/fr-plages-uvi``
 # Cities: 
